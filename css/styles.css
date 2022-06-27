@@ -53,7 +53,7 @@ hr {
 .top-container {
   background-color:#E4F9F5 ;
   position: relative;
-  padding-top: 100px;
+  padding-top: 150px;
   
 }
 
@@ -89,13 +89,22 @@ hr {
  .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 300px;
+  bottom: 400px;
+  height: 200px;
+  width: 200px;
  }
 
  .top-cloud {
   position: absolute;
   right: 300px;
-  top: 40px;
+  top: 50px;
+  height: 200px;
+  width: 200px;
+ }
+
+ .mountain {
+  height: 500px;
+  width: 500px;
  }
 
  /*
